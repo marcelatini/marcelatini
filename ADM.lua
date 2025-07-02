@@ -2,7 +2,7 @@
 |felipepaiva|144|
 |mermyssada|201|
 |pabloanto|212|
-|camilaalv|194|
+|camilaalv|193|
 |erugnep|427|
 |mammoptu|277|
 |bavilonne|265|
