@@ -2,14 +2,14 @@
 |felipepaiva|344|
 |mermyssada|201|
 |pabloanto|212|
-|camilaalv|193|
+|camilaalv|493|
 |erugnep|427|
 |mammoptu|277|
 |bavilonne|265|
-|gafvirul|122|
+|gafvirul|422|
 |maruljevv|225|
 |arnaldomarvec|253|
-|redaruftu|175|
+|redaruftu|575|
 |marufgai|185|
 |rodondef|389|
 |xuxatudo|751|
@@ -17,7 +17,7 @@
 |aaline|999|
 |tifannyjins|323|
 |carolinaygh|223|
-|ohmakbarak|183|
+|ohmakbarak|683|
 |medsonelemental|245|
 |prittokarumak|243|
 |arluttano|297|
