@@ -1,13 +1,13 @@
-|eruminuak|172|
+|eruminuak|472|
 |felipepaiva|344|
 |mermyssada|201|
 |pabloanto|212|
 |camilaalv|493|
-|erugnep|127|
+|erugnep|427|
 |mammoptu|277|
 |bavilonne|265|
 |gafvirul|422|
-|yurigarcia|329|
+|yurigarcia|389|
 |maruljevv|225|
 |arnaldomarvec|253|
 |redaruftu|575|
