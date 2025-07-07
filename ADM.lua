@@ -1,9 +1,9 @@
-|eruminuak|372|
+|eruminuak|172|
 |felipepaiva|344|
 |mermyssada|201|
 |pabloanto|212|
 |camilaalv|493|
-|erugnep|427|
+|erugnep|127|
 |mammoptu|277|
 |bavilonne|265|
 |gafvirul|422|
