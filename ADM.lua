@@ -43,3 +43,4 @@
 |xuby12|500|
 |xuby13|500|
 |xuby14|500|
+|receptor|500|
