@@ -83,4 +83,4 @@
 |wonaoeirirou|500|
 |nuviufycicoue|500|
 |isiuiretau|500|
-|addonshop|500|
+|addonshop|501|
