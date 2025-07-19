@@ -28,6 +28,13 @@
 |xurumy|500|
 |xurumy3|500|
 |xurumy4|500|
+|robocop1|500|
+|robocop2|500|
+|robocop3|500|
+|robocop4|500|
+|robocop5|500|
+|robocop6|500|
+|robocop7|500|
 |robocop8|500|
 |xuby1|500|
 |xuby2|500|
