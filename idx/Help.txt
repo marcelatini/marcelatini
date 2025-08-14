@@ -1,0 +1,112 @@
+
+
+
+::: Exemplo Senha.ini :::
+   Onde diz # substitua por informações reais, você só precisa usar #número# se quiser que algum personagem da conta não faça login, coloque em #número# o número do personagem que você quer que faça login.
+      #acc#,#senha#,online,#Char#,#Char#,#Char#
+      #acc#,#senha#,online,#Char#,#Char#,#Char#
+      #acc#,#senha#,online,#Char#,#Char#,#Char#,#Char#,#Char#,#Char#,,,,,,,,,,4;5;6
+      #acc#,#senha#,online,#Char#,#Char#,#Char#,,,,,,,,,,,,,2;3
+   Formato completo:
+      #acc#,#senha#,online,#Char#,#Char#,#Char#,#Char#,#Char#,#Char#,#Char#,#Char#,#Char#,#Char#,#Char#,#Char#,#Char#,#Char#,#Char#,#numero#;#numero#;#numero#;#numero#;#numero#;#numero#;#numero#;#numero#;#numero#;#numero#;#numero#;#numero#;#numero#;#numero#;#numero#
+   Exemplo completo, neste formato todos os três personagens jogarão:
+      malica hury,4518561,online,Eric Lindu,Galinha de Marte,Churrus Fritu
+   Se você não quer que a "Galinha de Marte" faça login, use este formato:
+      malica hury,4518561,online,Eric Lindu,Galinha de Marte,Churrus Fritu,,,,,,,,,,,,,1;3
+   A separação das informações é sempre com vírgulas "," mas a separação da seleção dos personagens que realizarão o login é sempre com ponto e vírgula ";"
+   No terceiro Slot de cada acc você pode colocar online ou offline, online são as contas com as quais o ADM trabalhará e offline são as contas reserva com as quais ele não trabalhará e elas não atrapalharão o desempenho do ADM enquanto estiverem offline, então você pode colocar as contas desejadas ou tê-las no arquivo, para que você possa alternar facilmente entre as que serão jogadas naquele momento.
+
+
+
+::: Cores dos Status das Accounts :::
+   Verde = Online
+   Amarelo = Offline próximo a efetuar login.
+   Cinza = Licença espirada. Verifique o arquivo de senha.ini e veja se está escrito "online" no terceiro espaço, como no exemplos: malica hury,4518561,online,Eric Lindu,Galinha de Marte,Churrus Fritu
+   Roxo = A conta está pausada porque expirou após três tentativas de login ou porque foi pausada.
+   Azul claro = Em processo de login do cliente.
+   Turquesa = Possível erro de conexão do cliente.
+   Laranja = Possível problema na leitura das contas. Verifique se alguma delas contém alguma parte do título da janela de processo, o nome da conta ou um caractere dessa conta para vincular o PID e o identificador a essa conta e, assim, restabelecer a conexão.
+   Rosa = Status de verificação. Será verificado com prioridade.
+
+
+
+::: Prompt :::
+   "restart;" ou "r;" = Atualizar tudo.
+   "clean logs;" ou "cl;" ou "c;" = Limpar logs e atualizar configurações de mapa e cliente.
+   "load config;" ou "load c;" ou "lc;" ou "config" = Load no ADM Config.ini.
+   "load senha;" ou "load s;" ou "ls;" ou "senha" = Load no Senha.ini do ADM.
+   "pos;" ou "p;" = Posição do ADM.
+   "exit;" = Fecha o ADM.
+   "bg,on;" = Ativa a tema com imagem no background.
+   "bg,off;" = Desativa o tema com imagem no background.
+   "bg,6;" = coloque no 6 o numero ou nome da imagem que vai por no background, exemplo "6" = "BG_6.bmp" ou "uhdh" = "BG_uhdh.bmp". Comando de "bg" pelo prompt não alteram o Config.ini então ao reabri o programa voltará as confgurações do config.
+
+
+
+::: Prompt Acc :::
+   O prompt do Acc é composto de três partes: o comando acc, depois o número ou nome do acc ou "all", que executa a ação 
+em todos os acc após a ação, por exemplo: "acc,8,update;" ou "acc,marina lima,close;" Ações do comando acc:
+      "close" ou "c" = Fecha o client.
+      "atualizar" ou "ver" ou "v" = A acc entra no modo de seleção, reiniciando somente a seleção do ADM.
+      "reset" ou "r" = Reseta os delay da acc e as tentativas de login falhas.
+      "pause" ou "p" = A conta entra em modo de pausa, a conta é ignorada pelo ADM e o cliente fica à deriva.
+      "unpause" ou "up" = Remova o modo de pausa da acc e comece novamente.
+
+
+
+::: Hot Key's :::
+   Control + Alt + u - Fecha todos clients usando as informações EXE: do config.ini.
+   Control + Alt + i - Ativa o modo usuário.
+   Control + Alt + o - Atualiza todos os parametros do administrador.
+   Control + Alt + c - Atualiza o config e o map do " & $exx & " e reseta os logs inuteis.
+   Control + Alt + v - Força a verificação de todos clients adiminitrados.
+   Control + Alt + s - Load no arquivo senhas.ini.
+   Control + Alt + t - Mostra e posiciona o administrador.
+
+
+
+::: Control :::
+   O programa ADM tem um ícone localizado ao lado do relógio do Windows. Se não estiver visível, clique na seta para ativá-lo. Este ícone representa o programa ADM. Você pode usá-lo clicando com o botão direito do mouse.
+Ele piscará em vermelho, indicando que você pausou o ADM. Para remover ou pausar o ADM, clique no botão "Script Pausado" e o ADM continuará em execução. Clicar no botão "Sair" fechará o ADM.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
