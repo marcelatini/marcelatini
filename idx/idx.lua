@@ -7,7 +7,7 @@
 |n|bin,3p2.osc|
 |n|bin,tFE.osc|
 |n|bin,v1k.osc|
-;|Referente|bin,nqt.osc|
+|n|bin,nqt.osc|
 ;
 |d|bin,ZDA.dat|143|
 |d|bin,3zh.pat|98|
