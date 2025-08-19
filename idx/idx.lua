@@ -4,7 +4,10 @@
 ;
 |f|bin\|
 ;
-|f|Background\|
+|n|bin,3p2.osc|
+|n|bin,tFE.osc|
+|n|bin,v1k.osc|
+;|Referente|bin,nqt.osc|
 ;
 |d|bin,ZDA.dat|143|
 |d|bin,3zh.pat|98|
@@ -76,7 +79,7 @@
 ;...
 
 
-;  Data
+;  # Data #
 ;
 |f|Data\|
 ;
@@ -84,7 +87,7 @@
 ;
 
 
-;  Log
+;  # Log #
 ;
 |f|Log\|
 ;
@@ -92,7 +95,7 @@
 ;
 
 
-;  Scripts
+;  # Scripts #
 ;
 |f|Scripts\|
 ;
@@ -104,16 +107,14 @@
 |d|Scripts,efXYH6.dll|13|31|41|61|61|52|12|99|5061|
 
 
-;  Shield
+;  # Shield #
 ;
 |f|Shield\|
-;
-;...
 ;
 |i|Shield,Skunk Shield.exe|
 |i|Shield,muLtex.dll|
 |i|Shield,version.ini|
-
+;
 |d|Shield,Data.pat|314|31|29|
 |d|Shield,Ladw41.pat|91|1|44|
 |d|Shield,CbHGtt.dll|403|51|99|61|1|74|91|1012|
@@ -121,7 +122,7 @@
 |p|Shield,MpaFgC.dll|613|154|
 
 
-;  Shield   idx
+;  # Shield # idx #
 ;
 |f|Shield\idx\|
 ;
@@ -130,11 +131,11 @@
 ;...
 
 
-;  ## Program ##
+;  ## # Program # ##
 ;
 ;...
 ;
-|i|ADM|
+|i|ADM.exe|
 |n|Config.ini|
 |i|Help.txt|
 |n|Senha.ini|
@@ -142,6 +143,13 @@
 ;
 |p|XmaEqd.dll|91|811|
 |p|xVGssm.dll|194|311|
+;
+;...
+
+
+;  ## # End # ##
+|d|lN1jOO.dll|2|1|4|
+;  #############
 
 
 
