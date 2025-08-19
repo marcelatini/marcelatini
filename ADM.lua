@@ -1,11 +1,11 @@
 |eruminuak|473|
 |felipepaiva|344|
-|mermyssada|301|
-|pabloanto|212|
+|mermyssada|401|
+|pabloanto|412|
 |camilaalv|493|
 |erugnep|427|
-|mammoptu|277|
-|bavilonne|265|
+|mammoptu|377|
+|bavilonne|465|
 |gafvirul|422|
 |yurigarcia|389|
 |maruljevv|425|
@@ -19,8 +19,8 @@
 |tifannyjins|323|
 |carolinaygh|223|
 |ohmakbarak|683|
-|medsonelemental|245|
-|prittokarumak|243|
+|medsonelemental|445|
+|prittokarumak|443|
 |arluttano|297|
 |marcelatini|295|
 |moranginhomalandro|241|
