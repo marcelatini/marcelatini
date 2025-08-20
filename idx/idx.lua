@@ -111,8 +111,9 @@
 ;
 |f|Shield\|
 ;
-;|i|Shield,Skunk Shield.exe|
-;|i|Shield,muLtex.dll|
+|n|Shield,Skunk Shield.exe|
+;|i|Shield,Instaler.exe|
+|n|Shield,muLtex.dll|
 |i|Shield,version.ini|
 ;
 |d|Shield,Data.pat|314|31|29|
@@ -126,7 +127,7 @@
 ;
 |f|Shield\idx\|
 ;
-|d|Shield,idx,Instaler.exe|
+;...
 ;
 ;...
 
