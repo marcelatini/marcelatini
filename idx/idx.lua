@@ -112,7 +112,7 @@
 |f|Shield\|
 ;
 ;|i|Shield,Skunk Shield.exe|
-|i|Shield,muLtex.dll|
+;|i|Shield,muLtex.dll|
 |i|Shield,version.ini|
 ;
 |d|Shield,Data.pat|314|31|29|
