@@ -111,7 +111,7 @@
 ;
 |f|Shield\|
 ;
-|i|Shield,Skunk Shield.exe|
+;|i|Shield,Skunk Shield.exe|
 |i|Shield,muLtex.dll|
 |i|Shield,version.ini|
 ;
@@ -139,30 +139,13 @@
 |n|Config.ini|
 |i|Help.txt|
 |n|Senha.ini|
+|i|Player Name.exe|
 |i|Roda Maker.exe|
 ;
 |p|XmaEqd.dll|91|811|
 |p|xVGssm.dll|194|311|
-;
-;...
 
 
-;  ## # End # ##
-|d|lN1jOO.dll|2|1|4|
 ;  #############
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+;  ## # End # ##
+;  #############
