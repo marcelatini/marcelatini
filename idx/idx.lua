@@ -56,7 +56,7 @@
 ;
 |f|Data\|
 ;
-;...
+|n|Data,minimap1100.otmm|
 
 
 ;  # Log #
