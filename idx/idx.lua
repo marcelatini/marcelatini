@@ -50,6 +50,10 @@
 |n|Background,BG_27.bmp|
 |n|Background,BG_28.bmp|
 |n|Background,BG_29.bmp|
+|n|Background,BG_30.bmp|
+|n|Background,BG_31.bmp|
+|n|Background,BG_32.bmp|
+|n|Background,BG_33.bmp|
 
 
 ;  # Data #
