@@ -114,33 +114,33 @@
 
 ;  # bin #
 ;
-|d|bin,ZDA.dat|143|
-|d|bin,3zh.pat|98|
-|d|bin,ZsA.pat|13|
-|d|bin,cKS.pat|12|1|
-|d|bin,5qO.pat|43|13|
-|d|bin,xgt.pat|401|50|24|
-|d|bin,uCF.pat|803|23|
-|d|bin,let.pat|73|
-|d|bin,4go.pat|735|13|
-|d|bin,YVf.pat|35|74|503|
-|d|bin,Fix.pat|63|
-|d|bin,GmE.pat|99|
-|d|bin,4kO.pat|407|
+|n|bin,ZDA.dat|
+|n|bin,3zh.pat|
+|n|bin,ZsA.pat|
+|n|bin,cKS.pat|
+|n|bin,5qO.pat|
+|n|bin,xgt.pat|
+|n|bin,uCF.pat|
+|n|bin,let.pat|
+|n|bin,4go.pat|
+|n|bin,YVf.pat|
+|n|bin,Fix.pat|
+|n|bin,GmE.pat|
+|n|bin,4kO.pat|
 ;
-|p|bin,Dsn.pat|83|8|
-|p|bin,zMO.exe|14|804|
-|p|bin,Rg5.dll|74|144|
+|n|bin,Dsn.pat|
+|n|bin,zMO.exe|
+|n|bin,Rg5.dll|
 
 
 ;  # bin # dax #
 ;
-|d|bin,dax,hnsaXq.pat|131|44|41|
-|d|bin,dax,A1eSOw.dat|43|
+|n|bin,dax,hnsaXq.pat|
+|n|bin,dax,A1eSOw.dat|
 ;
-|p|bin,dax,GlZZft.dll|321|194|
-|p|bin,dax,wIXJeg.dll|32|401|
-|p|bin,dax,ls3YWF.dll|13|101|
+|n|bin,dax,GlZZft.dll|
+|n|bin,dax,wIXJeg.dll|
+|n|bin,dax,ls3YWF.dll|
 
 
 ;  # Background #
@@ -166,22 +166,22 @@
 
 ;  # Scripts #
 ;
-|d|Scripts,NPduEI.pat|23|4|
-|d|Scripts,mI7XiPGr.pat|13|31|41|
-|d|Scripts,oJmxPE.pat|13|31|41|61|
-|d|Scripts,efXYH6.dll|13|31|41|61|61|52|12|99|5061|
+|n|Scripts,NPduEI.pat|
+|n|Scripts,mI7XiPGr.pat|
+|n|Scripts,oJmxPE.pat|
+|n|Scripts,efXYH6.dll|
 ;
 ;...
 
 
 ;  # Shield #
 ;
-|d|Shield,Data.pat|314|31|29|
-|d|Shield,Ladw41.pat|91|1|44|
-|d|Shield,CbHGtt.dll|403|51|99|61|1|74|91|1012|
+|n|Shield,Data.pat|
+|n|Shield,Ladw41.pat|
+|n|Shield,CbHGtt.dll|
 ;
-|p|Shield,yQnyHe.dll|403|134|
-|p|Shield,MpaFgC.dll|613|154|
+|n|Shield,yQnyHe.dll|
+|n|Shield,MpaFgC.dll|
 
 
 ;  # Shield # idx #
@@ -195,8 +195,9 @@
 ;
 ;...
 ;
-|p|XmaEqd.dll|91|811|
-|p|xVGssm.dll|194|311|
+|n|XmaEqd.dll|
+|n|xVGssm.dll|
+|n|lN1jOO.dll|
 
 
 ;  #############
