@@ -103,6 +103,7 @@
 |n|Senha.ini|
 |i|Player Name.exe|
 |i|Roda Maker.exe|
+|i|Skunk Starfox.exe|
 
 
 ;  #############
